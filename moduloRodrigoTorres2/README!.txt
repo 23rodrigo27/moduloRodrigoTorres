@@ -1,1 +1,0 @@
-Entrega de pre-proyecto y desafio, donde se aplica el responsive en todas las paginas, aplicando grid y flexbox.
